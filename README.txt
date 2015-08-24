@@ -1,4 +1,9 @@
-This fork allows control of a Nokia 5210 display rather than 5110. Only a few changes are needed. See below for the original readme text
+This fork allows control of a Nokia 5210 display rather than 5110. Only a few changes are needed. 
+
+For instructions please see:
+http://dontbuyjustmake.blogspot.nl/2015/01/reusing-your-ancient-mobile-phone-lcd.html
+
+See below for the original readme text
 
 ------------------------------------------------------------
 
