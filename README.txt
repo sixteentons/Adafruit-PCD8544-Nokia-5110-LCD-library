@@ -1,3 +1,7 @@
+This fork allows control of a Nokia 5210 display rather than 5110. Only a few changes are needed. See below for the original readme text
+
+------------------------------------------------------------
+
 This is a library for our Monochrome Nokia 5110 LCD Displays
 
   Pick one up today in the adafruit shop!
